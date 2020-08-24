@@ -1,2 +1,2 @@
 # robo-friends
-A practice project based project based on react 
+A practice project based project for learning react components .
